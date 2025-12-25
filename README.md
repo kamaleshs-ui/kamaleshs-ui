@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamaleshs-ui" alt="kamaleshs-ui" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX design @Sdlc Namakkal**
+- 🌱 I’m **UI/UX designer **
 
 - 📫 How to reach me **kamalsumathi001@gmail.com**
 
